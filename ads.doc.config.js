@@ -18,7 +18,6 @@ module.exports = (
             helpers: {
                 devInstall: true,
                 importCode: GenDoc.getFileContent('./docs/import.js'),
-                remark: GenDoc.getFileContent('./docs/usage.md'),
                 postfixes: [
                     {
                         id: 'source',

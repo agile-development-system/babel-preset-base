@@ -1,3 +1,4 @@
-// gulpfile.js
-const gulpPreset = require('@ads/gulp-config-preset');
-exports.default = gulpPreset();
+// babel.config.js
+module.exports = {
+    presets: ['@ads/babel-preset-base'],
+};
