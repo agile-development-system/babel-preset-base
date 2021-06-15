@@ -1,4 +1,4 @@
-# @ads/babel-preset-base
+# @agds/babel-preset-base
 **版本** ：1.0.0
 基础babel配置
 
@@ -6,14 +6,14 @@
 
 ### 安装
 ```bash
-npm i -D @ads/babel-preset-base
+npm i -D @agds/babel-preset-base
 ```
 
 ### 引入
 ```js
 // babel.config.js
 module.exports = {
-    presets: ['@ads/babel-preset-base'],
+    presets: ['@agds/babel-preset-base'],
 };
 ```
 
