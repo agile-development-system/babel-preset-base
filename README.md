@@ -1,15 +1,19 @@
 # @agds/babel-preset-base
+
 **版本** ：1.0.0
+
 基础babel配置
 
 ## 快速开始
 
 ### 安装
+
 ```bash
 npm i -D @agds/babel-preset-base
 ```
 
 ### 引入
+
 ```js
 // babel.config.js
 module.exports = {
